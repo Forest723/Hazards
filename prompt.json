@@ -1,0 +1,26 @@
+{
+  "description": "One-line cinematic summary of the full video arc. Include the setting, emotional tone, main object(s), transformation or event, and ensure the final frame is clear. Avoid vague terms. Use emotionally resonant imagery and keep it <2 sentences.",
+  
+  "style": "Specify the visual style: photorealistic, surreal, painterly, stylized anime, 90s camcorder, vaporwave, Pixar-esque, claymation, etc. Add adjectives to guide tone: ‘cinematic’, ‘dreamlike’, ‘high-gloss’, etc. Combine references if helpful, e.g., 'Studio Ghibli x Wes Anderson'",
+
+  "camera": "Detail the shot type (wide, close-up, dolly, orbit, overhead, etc.). Include motion (if any): pan, zoom, tilt, drone drop, etc. Define the angle and composition style (symmetrical, rule of thirds, over-the-shoulder, etc.). Think like a DP setting up the shot.",
+  
+  "lighting": "Describe natural or artificial light, its direction, quality (soft vs harsh), and any color grading or mood effects. e.g. 'golden-hour sunlight', 'neon reflections', 'overcast haze with cold tones'. This defines the emotional tone more than anything else.",
+  
+  "environment": "Describe the setting in spatial terms. Is it a blank canvas? A specific location? A themed room? Include wall textures, flooring, furniture layout, background objects. This is the stage where the story unfolds. Keep it minimal but intentional.",
+  
+  "elements": [
+    "List all key physical items that appear in the scene. Think of this as the set design checklist. Be specific: 'glossy black vinyl record spinning on wood turntable' or 'hovering holographic fish tank'. Use modifiers to clarify size, color, behavior, position.",
+    "Group props thematically or by function if needed (e.g., ‘kitchen utensils’, ‘floating UI panels’, etc.)"
+  ],
+
+  "motion": "Describe the key movement in the scene: what transforms, animates, appears, disappears, breaks, builds, explodes, wiggles, or fades in/out. This drives the 7-second tension and payoff. Sequence it with rhythm: e.g., ‘slow rise, sudden burst, lingering sparkle’.",
+
+  "ending": "What should the final frame *feel* like? Be exact. This is your emotional landing. e.g., ‘a fully-formed sanctuary of calm’, ‘a glowing cube levitating in darkness’, ‘a clean, minimalist room with a pulsing neon edge’. Think freeze-frame summary.",
+
+  "text": "Usually ‘none’. Only override if there’s *essential* text (like a product name or brief message). Avoid captions unless absolutely necessary. Let the visuals speak.",
+
+  "keywords": [
+    "List of production tags for classification and reinforcement. Include things like ‘16:9’, ‘no text’, ‘wide shot’, ‘explosion’, ‘fast assembly’, ‘dreamcore’, ‘sci-fi HUD’, etc. These guide model retrieval and visual fidelity."
+  ]
+}
